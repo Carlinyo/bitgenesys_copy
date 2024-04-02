@@ -1,0 +1,46 @@
+@font-face {
+  font-family: satoshi;
+  src: url(/fonts/satoshi.otf);
+}
+
+@font-face {
+  font-family: satoshi-black;
+  src: url(/fonts/satoshi-black.otf);
+}
+  
+
+.def-text {
+    color: #333;
+    font-family: satoshi;
+    font-size: 20px;
+}
+
+.satishi-light-text {
+  font-family: satoshi;
+}
+
+.satishi-black-text {
+  font-family: satoshi-black;
+}
+
+.h1-text {
+  font-family: satoshi-black;
+  line-height: 1.3 !important;
+  @apply md:text-6xl text-3xl;
+}
+
+.container-alignment {
+  @screen md {
+    padding: 0 40px;
+  }
+  @screen lg {
+    padding: 0 144px;
+  }
+  @screen xl {
+    padding: 0 15%;
+  }
+  @screen 2xl {
+    padding: 0 20%;
+  }
+  padding: 0 20px;
+}

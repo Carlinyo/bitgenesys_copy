@@ -1,0 +1,17 @@
+[
+    {
+        "image": "/images/landing/innovate.png",
+        "title": "Innovate",
+        "description": "We relentlessly innovate and pioneer groundbreaking blockchain solutions, driving the future of digital finance."
+    },
+    {
+        "image": "/images/landing/incubate.png",
+        "title": "Incubate",
+        "description": "Our incubation services provide the essential support and guidance needed to nurture blockchain projects from concept to success."
+    },
+    {
+        "image": "/images/landing/elevate.png",
+        "title": "Elevate",
+        "description": "We are committed to elevating blockchain ventures and entrepreneurs, propelling them towards greater heights of achievement."
+    }
+]
